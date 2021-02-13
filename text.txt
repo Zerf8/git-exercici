@@ -1,1 +1,2 @@
 canvi afegit desde la branca main
+Afegim un text estant a branch1
